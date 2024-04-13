@@ -1,5 +1,8 @@
-# Discord OSINT Bot
+# Discord Token Generator
 
+https://s7.ezgif.com/tmp/ezgif-7-11e85a44c7.gif
+
+![Logo]([https://media.discordapp.net/attachments/1223373716939870371/1228744140192350318/image.png?ex=662d2827&is=661ab327&hm=569e4fcfd1aa4c66fd74280e6073b8f1da4e1aa833f552adba5c8a499ecdc28d&=&format=webp&quality=lossless&width=550&height=282](https://s7.ezgif.com/tmp/ezgif-7-11e85a44c7.gif))
 
 **info:**
 
